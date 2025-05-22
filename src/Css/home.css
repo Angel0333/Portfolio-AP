@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    
+}
+/* sobre mi */
+.presentacion {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px
+}
+
+.presentacion img {
+    width: 150px;
+    border-radius: 8px;
+}
